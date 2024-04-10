@@ -1,0 +1,16 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "cmd",
+        "g",
+        "kmap",
+        "font",
+        "fontsize",
+        "colorscheme",
+        "useicons",
+        "icons",
+        "opt",
+        "lazygit",
+        "laazygit"
+    ]
+}
